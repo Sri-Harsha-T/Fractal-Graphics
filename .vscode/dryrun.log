@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/shpc/Desktop/Harsha/DSA/Project'
+g++ Mandelbrot_sfml.cpp -o Mandelbrot_sfml -lsfml-graphics -lsfml-window -lsfml-system
+make: Leaving directory '/home/shpc/Desktop/Harsha/DSA/Project'
+ 
